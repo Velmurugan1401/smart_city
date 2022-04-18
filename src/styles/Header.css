@@ -1,0 +1,19 @@
+ 
+.header-section {
+  background: #151414;
+  
+}
+  
+.logo-area{
+ 
+  padding: 25px 0;
+}
+.logo-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #878787;
+}
+.logo-text p a{
+  color: #ff5e14;
+}
+ 
